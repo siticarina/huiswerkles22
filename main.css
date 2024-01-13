@@ -1,0 +1,14 @@
+footer{
+    color:aliceblue;
+    min-height: 200px;
+}
+h1{ text-align: center;
+    color:rgb(84, 118, 148);
+}
+p{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navbar-toggler-icon:active{
+    color:bisque;
+}
